@@ -1,3 +1,4 @@
-Hi, my name is Kevin Tyler and I'm graduating in December 2021 from the University of Pennsylvania's Master of Computer Information and Technology (MCIT) program. I am
-currently seeking new graduate software engineering and software developer positions starting in January 2022 or later. My email is kdtyler@seas.upenn.edu and my LinkedIn page is 
-www.linkedin.com/in/KevinDanielTyler
+My name is Kevin Tyler and I am a software engineer with 2 years of experience. I have previously worked at General Motors where I focused on backend developlment in Java. Currently open for work.
+
+Email: kevindtyler2@gmail.com
+LinkedIn: www.linkedin.com/in/KevinDanielTyler
