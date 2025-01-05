@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kevin Tyler, a full-stack software engineer with a back-end Java focus. I have 2+ years of experience and previously worked at General Motors. Currently open for work.</div>  
+### <div align="center">I'm Kevin Tyler, a full-stack software engineer. I have 2+ years of experience with a back-end Java focus.</div>  
   
 
 - 🔭 I am most comfortable in Java/Spring. I also have experience from side and school projects in Python, C++, and JavaScript  
